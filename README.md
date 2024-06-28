@@ -1,8 +1,7 @@
-# React + Vite
+Completed the Task given by the team of Codes for Tomorrow
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Use Redux for pagination, data fetching and displaying of the cards 
+Use Vite react for the front-end displaying
+Use Tailwind CSS for the styling property
+Use the Flowbite website for the building of Card Component.
